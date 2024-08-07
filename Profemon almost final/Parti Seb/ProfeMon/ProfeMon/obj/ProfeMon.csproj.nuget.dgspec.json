@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dr.Kreijger\\Documents\\Cours\\Bloc 1\\Programmation pratique\\Q2\\ProféMonV2\\Profemon almost final\\Parti Seb\\ProfeMon\\ProfeMon\\ProfeMon.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dr.Kreijger\\Documents\\Cours\\Bloc 1\\Programmation pratique\\Q2\\ProféMonV2\\Profemon almost final\\Parti Seb\\ProfeMon\\ProfeMon\\ProfeMon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dr.Kreijger\\Documents\\Cours\\Bloc 1\\Programmation pratique\\Q2\\ProféMonV2\\Profemon almost final\\Parti Seb\\ProfeMon\\ProfeMon\\ProfeMon.csproj",
+        "projectName": "ProfeMon",
+        "projectPath": "C:\\Users\\Dr.Kreijger\\Documents\\Cours\\Bloc 1\\Programmation pratique\\Q2\\ProféMonV2\\Profemon almost final\\Parti Seb\\ProfeMon\\ProfeMon\\ProfeMon.csproj",
+        "packagesPath": "C:\\Users\\Dr.Kreijger\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dr.Kreijger\\Documents\\Cours\\Bloc 1\\Programmation pratique\\Q2\\ProféMonV2\\Profemon almost final\\Parti Seb\\ProfeMon\\ProfeMon\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dr.Kreijger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

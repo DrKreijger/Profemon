@@ -1,0 +1,199 @@
+C:\Users\sebdo\Nextcloud7\Labo Partage\Projet progra Q2\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.exe
+C:\Users\sebdo\Nextcloud7\Labo Partage\Projet progra Q2\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.deps.json
+C:\Users\sebdo\Nextcloud7\Labo Partage\Projet progra Q2\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.runtimeconfig.json
+C:\Users\sebdo\Nextcloud7\Labo Partage\Projet progra Q2\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.dll
+C:\Users\sebdo\Nextcloud7\Labo Partage\Projet progra Q2\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.pdb
+C:\Users\sebdo\Nextcloud7\Labo Partage\Projet progra Q2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.AssemblyReference.cache
+C:\Users\sebdo\Nextcloud7\Labo Partage\Projet progra Q2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Form1.resources
+C:\Users\sebdo\Nextcloud7\Labo Partage\Projet progra Q2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.GenerateResource.cache
+C:\Users\sebdo\Nextcloud7\Labo Partage\Projet progra Q2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebdo\Nextcloud7\Labo Partage\Projet progra Q2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.AssemblyInfoInputs.cache
+C:\Users\sebdo\Nextcloud7\Labo Partage\Projet progra Q2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.AssemblyInfo.cs
+C:\Users\sebdo\Nextcloud7\Labo Partage\Projet progra Q2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.CoreCompileInputs.cache
+C:\Users\sebdo\Nextcloud7\Labo Partage\Projet progra Q2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.dll
+C:\Users\sebdo\Nextcloud7\Labo Partage\Projet progra Q2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\refint\ProfeMon.dll
+C:\Users\sebdo\Nextcloud7\Labo Partage\Projet progra Q2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.pdb
+C:\Users\sebdo\Nextcloud7\Labo Partage\Projet progra Q2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.genruntimeconfig.cache
+C:\Users\sebdo\Nextcloud7\Labo Partage\Projet progra Q2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ref\ProfeMon.dll
+C:\Users\sebdo\Nextcloud7\Labo Partage\Projet progra Q2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Properties.Resources.resources
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.exe
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.deps.json
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.runtimeconfig.json
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.dll
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.pdb
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.AssemblyReference.cache
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Form1.resources
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Properties.Resources.resources
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.GenerateResource.cache
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.AssemblyInfoInputs.cache
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.AssemblyInfo.cs
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.CoreCompileInputs.cache
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.dll
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\refint\ProfeMon.dll
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.pdb
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.genruntimeconfig.cache
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ref\ProfeMon.dll
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Form2.resources
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.AssemblyReference.cache
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Form1.resources
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Form2.resources
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Properties.Resources.resources
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.GenerateResource.cache
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.AssemblyInfoInputs.cache
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.AssemblyInfo.cs
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.CoreCompileInputs.cache
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.dll
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\refint\ProfeMon.dll
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.pdb
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.exe
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.deps.json
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.runtimeconfig.json
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.dll
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.pdb
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.genruntimeconfig.cache
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ref\ProfeMon.dll
+C:\Users\sebdo\Desktop\ProféMon\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.exe
+C:\Users\sebdo\Desktop\ProféMon\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.deps.json
+C:\Users\sebdo\Desktop\ProféMon\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.runtimeconfig.json
+C:\Users\sebdo\Desktop\ProféMon\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.dll
+C:\Users\sebdo\Desktop\ProféMon\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.pdb
+C:\Users\sebdo\Desktop\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.AssemblyReference.cache
+C:\Users\sebdo\Desktop\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Form1.resources
+C:\Users\sebdo\Desktop\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Form2.resources
+C:\Users\sebdo\Desktop\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Properties.Resources.resources
+C:\Users\sebdo\Desktop\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.GenerateResource.cache
+C:\Users\sebdo\Desktop\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebdo\Desktop\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.AssemblyInfoInputs.cache
+C:\Users\sebdo\Desktop\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.AssemblyInfo.cs
+C:\Users\sebdo\Desktop\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.CoreCompileInputs.cache
+C:\Users\sebdo\Desktop\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.dll
+C:\Users\sebdo\Desktop\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\refint\ProfeMon.dll
+C:\Users\sebdo\Desktop\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.pdb
+C:\Users\sebdo\Desktop\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.genruntimeconfig.cache
+C:\Users\sebdo\Desktop\ProféMon\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ref\ProfeMon.dll
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.exe
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.deps.json
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.runtimeconfig.json
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.dll
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.pdb
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.AssemblyReference.cache
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Form1.resources
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Form2.resources
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Properties.Resources.resources
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.GenerateResource.cache
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.AssemblyInfoInputs.cache
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.AssemblyInfo.cs
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.CoreCompileInputs.cache
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.dll
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\refint\ProfeMon.dll
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.pdb
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.genruntimeconfig.cache
+C:\Users\sebdo\Nextcloud7\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ref\ProfeMon.dll
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.exe
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.deps.json
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.runtimeconfig.json
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.dll
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.pdb
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.AssemblyReference.cache
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Form1.resources
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Form2.resources
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Properties.Resources.resources
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.GenerateResource.cache
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.AssemblyInfoInputs.cache
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.AssemblyInfo.cs
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.CoreCompileInputs.cache
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.dll
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\refint\ProfeMon.dll
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.pdb
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.genruntimeconfig.cache
+C:\Users\sebdo\Nextcloud2\Labo Partage\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ref\ProfeMon.dll
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.AssemblyReference.cache
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Form1.resources
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Form2.resources
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Properties.Resources.resources
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.GenerateResource.cache
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.AssemblyInfoInputs.cache
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.AssemblyInfo.cs
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.CoreCompileInputs.cache
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.dll
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\refint\ProfeMon.dll
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.pdb
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.exe
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.deps.json
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.runtimeconfig.json
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.dll
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.pdb
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.genruntimeconfig.cache
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ref\ProfeMon.dll
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Form3.resources
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.exe
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.deps.json
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.runtimeconfig.json
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.dll
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.pdb
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.AssemblyReference.cache
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Form1.resources
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Form2.resources
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Form3.resources
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Properties.Resources.resources
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.GenerateResource.cache
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.GeneratedMSBuildEditorConfig.editorconfig
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.AssemblyInfoInputs.cache
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.AssemblyInfo.cs
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.CoreCompileInputs.cache
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.dll
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\refint\ProfeMon.dll
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.pdb
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.genruntimeconfig.cache
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ref\ProfeMon.dll
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.exe
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.deps.json
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.runtimeconfig.json
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.dll
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.pdb
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.AssemblyReference.cache
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Form1.resources
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Form2.resources
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Form3.resources
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Properties.Resources.resources
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.GenerateResource.cache
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.AssemblyInfoInputs.cache
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.AssemblyInfo.cs
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.CoreCompileInputs.cache
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.dll
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\refint\ProfeMon.dll
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.pdb
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.genruntimeconfig.cache
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ref\ProfeMon.dll
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\Music.wav
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\Music_battle.wav
+C:\Users\Dr.Kreijger\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\Music_win.wav
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\Music.wav
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\Music_battle.wav
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\Music_win.wav
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.exe
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.deps.json
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.runtimeconfig.json
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.dll
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\bin\Debug\net6.0-windows\ProfeMon.pdb
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.AssemblyReference.cache
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Form1.resources
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Form2.resources
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Form3.resources
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.Properties.Resources.resources
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.GenerateResource.cache
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.GeneratedMSBuildEditorConfig.editorconfig
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.AssemblyInfoInputs.cache
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.AssemblyInfo.cs
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.csproj.CoreCompileInputs.cache
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.dll
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\refint\ProfeMon.dll
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.pdb
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ProfeMon.genruntimeconfig.cache
+G:\Autres ordinateurs\Mon PC\Documents\Cours\Bloc 1\Programmation pratique\Q2\ProféMonV2\Profemon almost final\Parti Seb\ProfeMon\ProfeMon\obj\Debug\net6.0-windows\ref\ProfeMon.dll
